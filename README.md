@@ -14,21 +14,17 @@ This is a web application built using Streamlit that takes an input image and pr
 
 ```
 git clone https://github.com/shukur-alom/Snake-detection.git
-
 ```
 
 2. Install the required dependencies:
 ```
 pip install -r requirements.txt
-
 ```
 
 3. Run the Streamlit app:
 ```
 streamlit run app.py
-
 ```
-
 
 The snake identification model used in this app is a Convolutional Neural Network 
 (CNN). It has been trained on a dataset of snake images to classify different snake 
