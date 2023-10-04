@@ -7,8 +7,6 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 
 
-
-
 name = ['natrix', 'coronella', 'vipera']
 
 model = tf.keras.models.load_model('Models/CNN.h5')
